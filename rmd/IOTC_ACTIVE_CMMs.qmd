@@ -1,0 +1,207 @@
+---
+title: "IOTC Active Conservation and Management Measures"
+author: "IOTC Secretariat | Data Section"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-location: left
+    toc-title: "Contents"
+    toc-depth: 3
+    number-sections: false
+    toc-expand: false  # Makes TOC collapsible
+    code-overflow: wrap
+    linkcolor: "#007acc"
+    self-contained: true
+    grid:
+      sidebar-width: 280px
+      body-width: 850px
+date: last-modified
+---
+
+# Data collection, Reporting, and Dissemination
+
+## 15/01 | Data Recording Systems
+
+- _On the recording of catch and effort data by fishing vessels in the IOTC Area of Competence_
+- [Res. 15/01 - Eng](https://www.iotc.org/cmm/resolution-1501-recording-catch-and-effort-data-fishing-vessels-iotc-area-competence)
+- [Res. 15/01 - Fra](https://www.iotc.org/fr/mcg/r%C3%A9solution-1501-concernant-l%E2%80%99enregistrement-des-captures-et-de-l%E2%80%99effort-par-les-navires-de-p%C3%AAche)
+
+<https://zenodo.org/records/19073767>
+
+## 15/02 | Core Datasets
+
+- _On mandatory statistical reporting requirements for IOTC Contracting Parties and Cooperating Non-Contracting Parties (CPCs)_
+- [Res. 15/02 - Eng](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and)
+- [Res. 15/02 - Fra](https://www.iotc.org/fr/mcg/r%C3%A9solution-1502-d%C3%A9clarations-statistiques-exigibles-des-parties-contractantes-et-parties)
+
+## 12/02 | Data Confidentiality
+
+- _Data confidentiality policy and procedures_
+- [Res. 12/02 - Eng](https://www.iotc.org/cmm/resolution-1202-data-confidentiality-policy-and-procedures)
+- [Res. 12/02 - Fra](https://www.iotc.org/fr/mcg/r%C3%A9solution-1202-politique-et-proc%C3%A9dures-de-confidentialit%C3%A9-des-donn%C3%A9es-statistiques)
+
+## 16/04 | Regional Observer Scheme Pilot Project
+
+- _On the implementation of a pilot project in view of promoting the Regional Observer Scheme of IOTC_
+- [Res. 16/04 - Eng](https://www.iotc.org/cmm/resolution-1604-implementation-pilot-project-view-promoting-regional-observer-scheme-iotc)
+- [Res. 16/04 - Fra](https://www.iotc.org/fr/mcg/r%C3%A9solution-1604-sur-la-mise-en-%C5%93uvre-d%E2%80%99un-projet-pilote-en-vue-de-promouvoir-le-m%C3%A9canisme)
+
+## 18/05 | Billfish Species
+
+- _On management measures for the conservation of the billfishes: striped marlin, black marlin, blue marlin and Indo-Pacific sailfish_
+- [Res. 18/05 - Eng](https://www.iotc.org/cmm/resolution-1805-management-measures-conservation-billfishes-striped-marlin-black-marlin-blue)
+- [Res. 18/05 - Fra](https://www.iotc.org/fr/mcg/r%C3%A9solution-1805-sur-des-mesures-de-gestion-pour-la-conservation-des-poissons-porte-%C3%A9p%C3%A9es-marlin)
+
+## 18/07 | Matrix of Presence of Species in the Catch
+
+- _On measures applicable in case of non-fulfilment of reporting obligations in the IOTC_
+- [Res. 18/07 - Eng](https://www.iotc.org/cmm/resolution-1807-measures-applicable-case-non-fulfilment-reporting-obligations-iotc)
+- [Res. 18/07 - Fra](https://iotc.org/fr/mcg/r%C3%A9solution-1807-sur-les-mesures-applicables-en-cas-de-non-respect-des-obligations-de)
+
+## 19/02 | DFAD-Related Data
+
+- _Procedures on a Fish Aggregating Devices (FADs) Management Plan_
+- Binding for the Sultanate of Oman
+- [Res. 19/02 - Eng](https://www.iotc.org/cmm/resolution-1902-procedures-fish-aggregating-devices-fads-management-plan)
+- [Res. 19/02 - Fra](https://www.iotc.org/fr/mcg/r%C3%A9solution-1902-proc%C3%A9dures-pour-un-plan-de-gestion-des-dispositifs-de-concentration-de-poissons)
+
+## 23/01 | AFAD-Related Data
+
+- _On the management of anchored fish aggregating devices (AFADs)_
+- [Res. 23/01 - Eng](https://www.iotc.org/cmm/resolution-2301-management-anchored-fish-aggregating-devices-afads)
+- [Res. 23/01 - Fra](https://www.iotc.org/fr/mcg/r%C3%A9solution-2301-sur-la-gestion-des-dispositifs-de-concentration-de-poissons-ancr%C3%A9s-dcpa)
+
+## 23/08 | Electronic Monitoring Standards
+
+- _On Electronic Monitoring Standards for IOTC Fisheries_
+- [Res. 23/08 - Eng](https://www.iotc.org/cmm/resolution-2308-electronic-monitoring-standards-iotc-fisheries)
+- [Res. 23/08 - Fra](https://www.iotc.org/fr/mcg/r%C3%A9solution-2308-sur-les-normes-de-surveillance-%C3%A9lectronique-pour-les-p%C3%AAcheries-de-la-ctoi)
+
+## 24/02 | DFAD-Related Data
+
+- _On management of drifting fish aggregating devices (FADs) in the IOTC Area of Competence_
+- [Res. 24/02 - Eng](https://www.iotc.org/cmm/resolution-2402-management-drifting-fish-aggregating-devices-fads-iotc-area-competence)
+- [Res. 24/02 - Fra](https://iotc.org/fr/mcg/r%C3%A9solution-2402-concernant-la-gestion-des-dispositifs-de-concentration-de-poissons-dcp-d%C3%A9rivants)
+
+## 25/06 | Observations at Sea
+
+- _On a Regional Observer Scheme_
+- Date of application: 22 August 2025
+- [Res. 25/06 - Eng](https://iotc.org/cmm/resolution-2506-regional-observer-scheme)
+- [Res. 25/06 - Fra](https://iotc.org/fr/mcg/resolution-2506-sur-un-mecanisme-regional-d%E2%80%99observateurs)
+
+# Bycatch Species and Conservation
+
+## 12/04 | Marine turtles
+
+- _On the conservation of marine turtles_
+- [Res. 12/04 - Eng](https://www.iotc.org/cmm/resolution-1204-conservation-marine-turtles)
+- [Res. 12/04 - Fra](https:///www.iotc.org/fr/mcg/r%C3%A9solution-1204-sur-la-conservation-des-tortues-marines)
+
+## 19/03 | Mobulid Rays
+
+- _On the conservation of mobulid species caught in association with fisheries in the IOTC Area of Competence_
+- [Res. 19/03 - Eng](https://www.iotc.org/cmm/resolution-1903-conservation-mobulid-rays-caught-association-fisheries-iotc-area-competence)
+- [Res. 19/03 - Fra]( https://www.iotc.org/fr/mcg/r%C3%A9solution-1903-sur-la-conservation-des-raies-mobulidae-captur%C3%A9es-en-association-avec-les)
+
+## 23/06 | Cetaceans
+
+- _On the conservation of cetaceans_
+- Date of application: 1 July 2024
+- [Res. 23/06 - Eng](https://www.iotc.org/cmm/resolution-2306-conservation-cetaceans)
+- [Res. 23/06 - Fra](https://www.iotc.org/fr/mcg/r%C3%A9solution-2306-sur-la-conservation-des-c%C3%A9tac%C3%A9s)
+
+## 23/07 | Seabirds
+
+- _On reducing the incidental bycatch of seabirds in longline fisheries_
+- Date of application: 1 July 2024
+- [Res. 23/07 - Eng](https://www.iotc.org/cmm/resolution-2307-reducing-incidental-bycatch-seabirds-longline-fisheries)
+- [Res. 23/07 - Fra](https://www.iotc.org/fr/mcg/r%C3%A9solution-2307-sur-la-r%C3%A9duction-des-captures-accidentelles-d%E2%80%99oiseaux-de-mer-dans-les-p%C3%AAcheries)
+
+## 25/08 | Sharks
+
+- _On the conservation of sharks caught in association with fisheries managed by IOTC_
+- Date of application: 1 January 2026
+- [Res. 25/08 - Eng](https://iotc.org/cmm/resolution-2508-conservation-sharks-caught-association-fisheries-managed-iotc)
+- [Res. 25/08 - Fra](https://iotc.org/fr/mcg/resolution-2508-conservation-des-requins-captures-en-association-avec-des-pecheries-gerees-par)
+
+## 25/09 | Mako Sharks
+
+- _On the conservation of shortfin and longfin mako sharks caught in association with IOTC fisheries_
+- Date of application: 1 January 2026
+- [Res. 25/09 - Eng](https://iotc.org/cmm/resolution-2509-conservation-shortfin-and-longfin-mako-sharks-caught-association-iotc-fisheries)
+- [Res. 25/09 - Fra](https://iotc.org/fr/mcg/resolution-2509-conservation-des-requins-taupes-bleus-et-petites-taupes-captures-en-association)
+
+# Monitoring & Compliance
+
+## 10/08 | Active Vessel List
+
+- _Concerning a record of active vessels fishing for tunas and swordfish in the IOTC Area_
+- [Res. 10/08 - Eng](https://www.iotc.org/cmm/resolution-1008-concerning-record-active-vessels-fishing-tunas-and-swordfish-iotc-area)
+- [Res. 10/08 - Fra](https://www.iotc.org/fr/mcg/r%C3%A9solution-1008-sur-un-registre-des-navires-en-activit%C3%A9-p%C3%AAchant-les-thons-et-l%E2%80%99espadon-dans-la)
+
+## 14/05 | Licensed Foreign Vessels
+
+- _Concerning a record of licensed foreign vessels fishing for IOTC species in the IOTC Area of Competence and access agreement information_
+- [Res. 14/05 - Eng](https://iotc.org/cmm/resolution-1405-concerning-record-licensed-foreign-vessels-fishing-iotc-species-iotc-area)
+- [Res. 14/08 - Fra](https://iotc.org/fr/mcg/r%C3%A9solution-1405-sur-un-registre-des-navires-%C3%A9trangers-attributaires-d%E2%80%99une-licence-p%C3%AAchant-les)
+
+## 19/04 | Record of Authorised Vessels
+
+- _Concerning the IOTC record of vessels authorised to operate in the IOTC Area of Competence_
+- [Res. 19/04 - Eng](https://www.iotc.org/cmm/resolution-1904-concerning-iotc-record-vessels-authorised-operate-iotc-area-competence)
+- [Res. 19/04 - Fra](https://www.iotc.org/fr/mcg/r%C3%A9solution-1904-concernant-le-registre-ctoi-des-navires-autoris%C3%A9s-%C3%A0-op%C3%A9rer-dans-la-zone-de)
+
+## 25/02 | Vessel Monitoring Systems
+
+- _On the Vessel Monitoring System (VMS) programme_
+- [Res. 25/02 - Eng](https://iotc.org/cmm/resolution-2502-vessel-monitoring-system-vms-programme)
+- [Res. 25/02 - Fra](https://iotc.org/fr/mcg/resolution-2502-sur-le-programme-de-systeme-de-surveillance-des-navires-ssn)
+
+## 25/11 | Port State Measures
+
+- _On port state measures to prevent, deter and eliminate illegal, unreported and unregulated fishing_
+- [Res. 25/11 - Eng](https://iotc.org/cmm/resolution-2511-port-state-measures-prevent-deter-and-eliminate-illegal-unreported-and)
+- [Res. 25/11 - Fra](https://iotc.org/fr/mcg/resolution-2511-sur-des-mesures-du-ressort-de-l%E2%80%99%C3%A9tat-du-port-visant-prevenir-contrecarrer-et)
+
+## 19/07 | Chartering Agreement
+
+- _On vessel chartering in the IOTC Area of Competence_
+- [Res. 19/07 - Eng](https://www.iotc.org/cmm/resolution-1907-vessel-chartering-iotc-area-competence)
+- [Res. 19/07 - Fra](https://www.iotc.org/fr/mcg/r%C3%A9solution-1907-sur-l%E2%80%99affr%C3%A8tement-des-navires-dans-la-zone-de-comp%C3%A9tence-de-la-ctoi)
+
+## 25/05 | Transhipments at sea
+
+- _On establishing a programme for transhipment by large-scale fishing vessels_
+- [Res. 25/05 - Eng](https://iotc.org/cmm/resolution-2505-establishing-programme-transhipment-large-scale-fishing-vessels)
+- [Res. 25/05 - Fra](https://iotc.org/fr/mcg/resolution-2505-sur-la-mise-en-place-d%E2%80%99un-programme-pour-les-transbordements-des-grands-navires)
+
+## 18/01 | Yellowfin Tuna Rebuilding Plan
+
+- _On an interim plan for rebuilding the Indian Ocean yellowfin tuna stock in the IOTC Area of Competence_
+- Date of application: 4 October 2018
+- Binding for India
+- [Res. 18/01 - Eng](https://www.iotc.org/cmm/resolution-1801-interim-plan-rebuilding-indian-ocean-yellowfin-tuna-stock-iotc-area-competence-0)
+- [Res. 18/01 - Fra](https://www.iotc.org/fr/mcg/r%C3%A9solution-1801-sur-un-plan-provisoire-pour-reconstituer-le-stock-d%E2%80%99albacore-de-loc%C3%A9an-indien)
+
+## 19/01 | Yellowfin Tuna Rebuilding Plan
+
+- _On an interim plan for rebuilding the Indian Ocean yellowfin tuna stock in the IOTC Area of Competence_
+- Date of application: 28 December 2019
+- Binding for Indonesia, I.R. Iran, Madagascar, Oman, and Somalia
+- [Res. 19/01 - Eng](https://www.iotc.org/cmm/resolution-1901-interim-plan-rebuilding-indian-ocean-yellowfin-tuna-stock-iotc-area-competence)
+- [Res. 19/01 - Fra](https://www.iotc.org/fr/mcg/r%C3%A9solution-1901-sur-un-plan-provisoire-pour-reconstituer-le-stock-d%E2%80%99albacore-de-loc%C3%A9an-indien)
+
+## 21/01 | Yellowfin Tuna Rebuilding Plan
+
+- _On an interim plan for rebuilding the Indian Ocean yellowfin tuna stock in the IOTC Area of Competence_
+- Date of application: 17 December 2021
+- [Res. 21/01 - Eng](https://www.iotc.org/cmm/resolution-2101-interim-plan-rebuilding-indian-ocean-yellowfin-tuna-stock-iotc-area-competence)
+- [Res. 21/01 - Fra](https://www.iotc.org/fr/mcg/r%C3%A9solution-2101-sur-un-plan-provisoire-pour-reconstituer-le-stock-d%E2%80%99albacore-de-loc%C3%A9an-indien)
+
+## 24/06 | Discard Ban
+
+- _On a ban on discards of bigeye tuna, skipjack tuna, yellowfin tuna, and non-targeted species caught by vessels in the IOTC record of authorisation that operate in the IOTC Area of Competence_
+- [Res. 24/06 - Eng](https://iotc.org/cmm/resolution-2406-ban-discards-bigeye-tuna-skipjack-tuna-yellowfin-tuna-and-non-targeted-species)
+- [Res. 24/06 - Fra](https://iotc.org/fr/mcg/r%C3%A9solution-2406-sur-une-interdiction-des-rejets-de-patudo-de-listao-d%E2%80%99albacore-et-des-esp%C3%A8ces)
