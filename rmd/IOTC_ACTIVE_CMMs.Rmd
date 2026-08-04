@@ -1,0 +1,221 @@
+---
+title: "IOTC Data-Related Conservation and Management Measures"
+author: "Author: [IOTC Secretariat](mailto:IOTC-Secretariat@fao.org)" 
+output:
+  officedown::rdocx_document:
+    reference_docx: "../templates/rdoc_template.docx"
+  html_document2:
+    css: "../templates/html_template.css"
+    self_contained: true
+    number_sections: false
+    toc: yes
+    toc_depth: 3
+    toc_float:
+      collapsed: false
+      smooth_scroll: false
+---
+
+## Introduction
+
+The Indian Ocean Tuna Commission (IOTC) has adopted a number of Conservation and Management Measures (CMMs) that establish the obligations of Contracting Parties and Cooperating Non-Contracting Parties (CPCs) regarding the collection, reporting and dissemination of fisheries data. These measures provide the legal framework supporting the submission of statistical, scientific and observer data to the IOTC Secretariat and contribute to the monitoring of fisheries, stock assessments, compliance activities, and scientific advice.
+
+## Core Data Collection and Reporting Framework {#framework}
+
+### 12/02 -- Data confidentiality policy and procedures {#1202}
+
+- Official text: [12/02](https://www.iotc.org/cmm/resolution-1202-data-confidentiality-policy-and-procedures)
+- DOI: <https://zenodo.org/records/21789557>
+- Entry into force: 2012-08-27
+- Supersedes: [98/02](https://iotc.org/cmm/resolution-9802-data-confidentiality-policy-and-procedures)
+
+This Resolution establishes procedures for the confidentiality, access and release of fisheries data submitted to the IOTC Secretariat. It defines rules for sharing catch-and-effort, length-frequency, observer and tagging data while ensuring that confidential information, including vessel-level information, is protected. The Resolution also sets procedures for safeguarding records and databases and for the use of data by IOTC Working Parties and the IOTC Scientific Committee.
+
+### 15/01 -- On the recording of catch and effort data by fishing vessels in the IOTC Area of Competence {#1501}
+
+- Official text: [15/01](https://www.iotc.org/cmm/resolution-1501-recording-catch-and-effort-data-fishing-vessels-iotc-area-competence)
+- DOI: <https://zenodo.org/records/19073767>
+- Entry into force: 2015-09-10
+- Supersedes: [13/03](https://iotc.org/cmm/resolution-1303-recording-catch-and-effort-data-fishing-vessels-iotc-area-competence)
+
+This Resolution establishes mandatory requirements for the implementation of data recording systems, including paper or electronic logbooks, by fishing vessels authorised to fish for species managed by IOTC. It specifies the minimum information and data to be recorded for vessel characteristics, fishing trips, gear configuration, fishing operations and catches, including requirements for recording target species and associated species groups. The Resolution also requires CPCs to submit logbook templates and related documentation to the IOTC Secretariat and provides provisions for the progressive implementation of data recording systems by developing CPCs for vessels less than 24 metres length overall operating within coastal State Exclusive Economic Zones.
+
+### 15/02 -- On mandatory statistical reporting requirements for IOTC Contracting Parties and Cooperating Non-Contracting Parties (CPCs) {#1502}
+
+- Official text: [15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and)
+- DOI: <https://zenodo.org/records/20483922>
+- Entry into force: 2015-09-10
+- Supersedes: [10/02](https://iotc.org/cmm/resolution-1002-mandatory-statistical-requirements-iotc-members-and-cooperating-non-contracting)
+- Guidelines: [Amount of fish caught and retained](https://data.iotc.org/reference/latest/guidelines/#Amount_of_fish_caught_and_retained) | [Amount of discards](https://data.iotc.org/reference/latest/guidelines/#Amount_of_discards) | [Geo-referenced catches and efforts](https://data.iotc.org/reference/latest/guidelines/#Geo-referenced_catches_and_efforts) | [Geo-referenced size frequencies](https://data.iotc.org/reference/latest/guidelines/#Geo-referenced_size_frequencies)
+- Reporting forms: [1RC](https://data.iotc.org/reference/latest/forms/#Form_1RC) | [1DI](https://data.iotc.org/reference/latest/forms/#Form_1DI) | [3CE](https://data.iotc.org/reference/latest/forms/#Form_3CE) | [4SF](https://data.iotc.org/reference/latest/forms/#Form_4SF)
+
+This Resolution applies to all CPCs and establishes the mandatory statistical reporting requirements for the three IOTC fishery categories (longline, surface and coastal fisheries), including retained catches, discards, fishing effort and size-frequency data. It covers the 16 tuna and tuna-like species under the IOTC mandate, as well as the most commonly caught elasmobranch species listed in Annex II of Resolution [15/01](#1501) for each gear group.
+
+The Resolution also establishes reporting requirements for purse seine support vessels and fish aggregating devices (FADs), specifies minimum spatial and temporal resolutions for fisheries datasets, sets minimum standards for size-frequency sampling, requires documentation of data extrapolation procedures, and defines the timelines for the submission of fisheries statistics to the IOTC Secretariat.
+
+### 18/07 -- On measures applicable in case of non-fulfilment of reporting obligations in the IOTC {#1807}
+
+- Official text: [18/07](https://www.iotc.org/cmm/resolution-1807-measures-applicable-case-non-fulfilment-reporting-obligations-iotc)
+- DOI: <https://zenodo.org/records/21788966>
+- Entry into force: 2018-10-04
+- Supersedes: [16/06](https://iotc.org/cmm/resolution-1606-measures-applicable-case-non-fulfilment-reporting-obligations-iotc)
+- Guidelines: [Species presence in the catch](https://data.iotc.org/reference/latest/guidelines/#Species_presence_in_the_catch)
+- Reporting forms: [1DR](https://data.iotc.org/reference/latest/forms/#Form_1DR)
+
+This Resolution applies to all CPCs and establishes requirements for reporting the presence or absence of catches (including zero catches) of IOTC species and commonly caught elasmobranch species by gear group, based on the species reporting requirements established under Resolution [15/01](#1501).
+
+### 25/06 -- On a Regional Observer Scheme
+
+- Official text: [25/06](https://iotc.org/cmm/resolution-2506-regional-observer-scheme)
+- DOI: <https://zenodo.org/uploads/21790738>
+- Entry into force: 2025-08-22
+- Supersedes: [24/04](https://iotc.org/cmm/resolution-2404-regional-observer-scheme)
+- Guidelines: **tbd**
+- Reporting forms: [ROS-GN](https://data.iotc.org/reference/latest/forms/ros/Form-ROS-GN.html), [ROS-LL](https://data.iotc.org/reference/latest/forms/ros/Form-ROS-LL.html), [ROS-PL](https://data.iotc.org/reference/latest/forms/ros/Form-ROS-PL.html), and [ROS-PS](https://data.iotc.org/reference/latest/forms/ros/Form-ROS-PS.html)
+
+This Resolution applies to CPCs with longline and surface fisheries and establishes a Regional Observer Scheme (ROS) to collect verified catch and other scientific data from fishing operations. It requires a minimum observer coverage of five percent of fishing operations at sea, which may be complemented or replaced by electronic monitoring systems (EMS) where minimum reporting standards are met. The Resolution also requires the monitoring of purse seine landings to determine the species composition of target tuna catches, defines the minimum observer data requirements and reporting procedures, and establishes an indicative five percent sampling target for artisanal fisheries through field sampling at landing sites to estimate catch-at-size by boat type, gear and species.
+
+### 25/11 -- On port state measures to prevent, deter and eliminate illegal, unreported and unregulated fishing
+
+- Official text: [Res. 25/11 - Eng](https://iotc.org/cmm/resolution-2511-port-state-measures-prevent-deter-and-eliminate-illegal-unreported-and)
+- DOI: 
+- Entry into force
+- Form?
+
+## Fishery-specific Data Collection Requirements
+
+### 10/08 -- Concerning a Record of Active Vessels Fishing for Tunas and Swordfish in the IOTC Area
+
+- Official text: [10/08](https://www.iotc.org/cmm/resolution-1008-concerning-record-active-vessels-fishing-tunas-and-swordfish-iotc-area) 
+- DOI: 
+- Entry into force: 2010-07-03
+- Related reporting form: [ADV](https://iotc.org/sites/default/files/documents/compliance/report_templates/Res_10_08_-_Reporting_template_for_active_domestic_vessels_E_F.xlsx)
+
+This Resolution applies to all CPCs with longline and surface fisheries and requires the reporting of a list of vessels that operated in the IOTC Area of Competence in the year prior to reporting, including information on vessel identification, ownership, operator details, fishing gear, and vessel characteristics (e.g. type, length, and gross tonnage).
+
+### 14/05 -- Concerning a record of licensed foreign vessels fishing for IOTC species in the IOTC Area of Competence and access agreement information
+
+- Official text: [14/05](https://iotc.org/cmm/resolution-1405-concerning-record-licensed-foreign-vessels-fishing-iotc-species-iotc-area)
+- DOI: 
+- Entry into force:
+- Form?
+
+### 19/04 -- Concerning the IOTC record of vessels authorised to operate in the IOTC Area of Competence
+
+- Official text: [19/04](https://www.iotc.org/cmm/resolution-1904-concerning-iotc-record-vessels-authorised-operate-iotc-area-competence)
+- DOI: 
+- Entry into force:
+- Supersedes: 
+- Form:  
+
+### 19/07 -- On vessel chartering in the IOTC Area of Competence
+
+- Official text: [19/07](https://www.iotc.org/cmm/resolution-1907-vessel-chartering-iotc-area-competence)
+- DOI: 
+- Entry into force:
+- Supersedes: 
+- Form?
+
+### 25/05 -- On establishing a programme for transhipment by large-scale fishing vessels 
+
+- Official text: [25/05](https://iotc.org/cmm/resolution-2505-establishing-programme-transhipment-large-scale-fishing-vessels)
+- DOI: 
+- Entry into force:
+- Supersedes: 
+
+### 19/02 -- Procedures on a Fish Aggregating Devices (FADs) Management Plan {#1902}
+
+- Official text: [19/02](https://www.iotc.org/cmm/resolution-1902-procedures-fish-aggregating-devices-fads-management-plan)
+- Binding for the Sultanate of Oman
+- Entry into force: 2020-01-01
+- DOI: 
+- Supersedes: [18/08](https://iotc.org/cmm/resolution-1808-procedures-fads-management-plan-including-limitation-number-fads-more-detailed)
+- Guidelines:
+- Reporting forms:
+
+### 24/02 -- On management of drifting fish aggregating devices (FADs) in the IOTC Area of Competence {#2402}
+
+- Official text: [24/02](https://www.iotc.org/cmm/resolution-2402-management-drifting-fish-aggregating-devices-fads-iotc-area-competence)
+- DOI: <https://zenodo.org/records/20487167>
+- Entry into force: 2024-03-02
+- Supersedes: [19/02](#1902)
+- Guidelines: [DFOB-related activities](https://data.iotc.org/reference/latest/guidelines/#DFOB-related_activities) | [Daily buoy positions](https://data.iotc.org/reference/latest/guidelines/#Daily_buoy_positions)
+- Reporting forms: [3DA](https://data.iotc.org/reference/latest/forms/#Form_3DA) | [3BU](https://data.iotc.org/reference/latest/forms/#Form_3BU)
+
+### 23/01 -- On the management of anchored fish aggregating devices (AFADs) {#2301}
+
+- Official text: [23/01](https://www.iotc.org/cmm/resolution-2301-management-anchored-fish-aggregating-devices-afads)
+- DOI: <https://zenodo.org/records/20489638>
+- Entry into force: 2023-06-09
+- Guidelines: [AFAD-related activities](https://data.iotc.org/reference/latest/guidelines/#AFAD-related_activities)
+- Reporting form: [3AA](https://data.iotc.org/reference/latest/forms/#Form_3AA)
+
+### 23/08 -- On Electronic Monitoring Standards for IOTC Fisheries {#2308}
+
+- Official text: [23/08](https://www.iotc.org/cmm/resolution-2308-electronic-monitoring-standards-iotc-fisheries)
+- DOI: 
+- Entry into force: 2024-07-01
+
+## Species-specific Monitoring Requirements
+
+### 12/04 -- On the conservation of marine turtles {1204}
+
+- Official text: [12/04](https://www.iotc.org/cmm/resolution-1204-conservation-marine-turtles)
+- DOI: <https://zenodo.org/records/20489777>
+- Entry into force: 
+- Supersedes: [09/06](https://iotc.org/cmm/resolution-0906-marine-turtles)
+- Guidelines: 
+- Reporting forms: 
+
+### 18/05 -- On management measures for the conservation of the billfishes: striped marlin, black marlin, blue marlin and Indo-Pacific sailfish {1805}
+
+- Official text: [18/05](https://www.iotc.org/cmm/resolution-1805-management-measures-conservation-billfishes-striped-marlin-black-marlin-blue)
+- DOI: <https://zenodo.org/records/21792725>
+- Entry into force: 2018-10-04
+- Supersedes: [15/05](https://iotc.org/cmm/resolution-1505-conservation-measures-striped-marlin-black-marlin-and-blue-marlin)
+- Guidelines: [Amount of fish caught and retained](https://data.iotc.org/reference/latest/guidelines/#Amount_of_fish_caught_and_retained) | [Amount of discards](https://data.iotc.org/reference/latest/guidelines/#Amount_of_discards) | [Geo-referenced catches and efforts](https://data.iotc.org/reference/latest/guidelines/#Geo-referenced_catches_and_efforts) | [Geo-referenced size frequencies](https://data.iotc.org/reference/latest/guidelines/#Geo-referenced_size_frequencies)
+- Reporting forms: [1RC](https://data.iotc.org/reference/latest/forms/#Form_1RC) | [1DI](https://data.iotc.org/reference/latest/forms/#Form_1DI) | [3CE](https://data.iotc.org/reference/latest/forms/#Form_3CE) | [4SF](https://data.iotc.org/reference/latest/forms/#Form_4SF)
+
+This Resolution establishes management measures for striped marlin, black marlin, blue marlin and Indo-Pacific sailfish, including requirements for the collection and reporting of catch, effort, size, release and discard data. It requires CPCs to record catches in accordance with Resolution [15/01](#1501), report data under Resolution [15/02](#1502), and provide information on national monitoring measures through their Annual Reports to support the scientific assessment and management of billfish stocks.
+
+### 19/03 -- On the conservation of mobulid species caught in association with fisheries in the IOTC Area of Competence {#1903}
+
+- Official text: [19/03](https://www.iotc.org/cmm/resolution-1903-conservation-mobulid-rays-caught-association-fisheries-iotc-area-competence)
+- DOI: 
+- Entry into force: 
+- Supersedes:
+- Guidelines: 
+- Reporting forms:
+
+### 23/06 -- On the conservation of cetaceans {#2306}
+
+- Official text: [23/06](https://www.iotc.org/cmm/resolution-2306-conservation-cetaceans)
+- DOI: 
+- Entry into force: 2024-07-01
+- Supersedes: 
+- Guidelines
+- Reporting forms:
+
+### 23/07 -- On reducing the incidental bycatch of seabirds in longline fisheries {2307}
+
+- Official text: [23/07](https://www.iotc.org/cmm/resolution-2307-reducing-incidental-bycatch-seabirds-longline-fisheries)
+- DOI: 
+- Entry into force: 2024-07-01
+- Supersedes:
+- Guidelines:
+- Reporting forms: 
+
+### 25/08 -- On the conservation of sharks caught in association with fisheries managed by IOTC {2508}
+
+- Official text: [25/08](https://iotc.org/cmm/resolution-2508-conservation-sharks-caught-association-fisheries-managed-iotc)
+- Entry into force: 2026-01-01
+- Supersedes: 
+- Guidelines: 
+- Reporting forms: 
+
+### 25/09 -- On the conservation of shortfin and longfin mako sharks caught in association with IOTC fisheries {2508}
+
+- Official text: [25/09](https://iotc.org/cmm/resolution-2509-conservation-shortfin-and-longfin-mako-sharks-caught-association-iotc-fisheries)
+- DOI: <https://zenodo.org/records/20485048>
+- Entry into force: 2026-01-01
+- Guidelines: 
+- Reporting forms: 

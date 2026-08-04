@@ -1,24 +1,25 @@
-# Source the R codes
-setwd("initialisation")
-source("00_CORE.R")
-setwd("..")
-
-## HTML ####
-OUTPUT_TABLE_FORMAT = "DT"
+# Libraries
+pacman::p_load(
+"rmarkdown", 
+"knitr", 
+"bookdown", 
+"officer", 
+"officedown", 
+"DT")
 
 ### ENGLISH ####
-render("rmd/00_DOCX_HTML.Rmd", 
+render("rmd/IOTC_ACTIVE_CMMs.Rmd", 
        output_format = "html_document2",
        output_dir    = "outputs/html/", 
        output_file   = paste0("index.html")
 )
 
 ### FRENCH ####
-render("rmd/00_DOCX_HTML_FR.Rmd", 
-       output_format = "html_document2",
-       output_dir    = "outputs/html/", 
-       output_file   = paste0("index_fr.html")
-)
+# render("rmd/00_DOCX_HTML_FR.Rmd", 
+#        output_format = "html_document2",
+#        output_dir    = "outputs/html/", 
+#        output_file   = paste0("index_fr.html")
+# )
 
 # Upload files on the server
 source("./initialisation/99_UPLOAD.R")
