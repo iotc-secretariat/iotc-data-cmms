@@ -26,7 +26,7 @@ This page provides an overview of the principal data-related CMMs and their repo
 
 ### 12/02 -- Data confidentiality policy and procedures {#1202}
 
-- Official text: [12/02](https://www.iotc.org/cmm/resolution-1202-data-confidentiality-policy-and-procedures)
+- Official text: `r resolution_text("12/02")`
 - DOI: <https://zenodo.org/records/21789557>
 - Entry into force: 2012-08-27
 - Supersedes: [98/02](https://iotc.org/cmm/resolution-9802-data-confidentiality-policy-and-procedures)
@@ -35,7 +35,7 @@ This Resolution establishes procedures for the confidentiality, access and relea
 
 ### 15/01 -- On the recording of catch and effort data by fishing vessels in the IOTC aea of competence {#1501}
 
-- Official text: [15/01](https://www.iotc.org/cmm/resolution-1501-recording-catch-and-effort-data-fishing-vessels-iotc-area-competence)
+- Official text: [15/01 (English)](../pdf/eng/IOTC_Resolution_15-01.pdf) | [15/01 (French)](../pdf/eng/CTOI_Resolution_15-02.pdf)
 - DOI: <https://zenodo.org/records/19073767>
 - Entry into force: 2015-09-10
 - Supersedes: [13/03](https://iotc.org/cmm/resolution-1303-recording-catch-and-effort-data-fishing-vessels-iotc-area-competence)
