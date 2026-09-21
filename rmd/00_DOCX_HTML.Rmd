@@ -33,7 +33,7 @@ This page provides an overview of the principal data-related CMMs and their repo
 
 This Resolution establishes procedures for the confidentiality, access and release of fisheries data submitted to the IOTC Secretariat. It defines rules for sharing catch-and-effort, length-frequency, observer and tagging data while ensuring that confidential information, including vessel-level information, is protected. The Resolution also sets procedures for safeguarding records and databases and for the use of data by IOTC Working Parties and the IOTC Scientific Committee.
 
-### 15/01 -- On the recording of catch and effort data by fishing vessels in the IOTC aea of competence {#1501}
+### 15/01 -- On the recording of catch and effort data by fishing vessels in the IOTC area of competence {#1501}
 
 - Official text: [15/01 (English)](../pdf/eng/IOTC_Resolution_15-01.pdf) | [15/01 (French)](../pdf/eng/CTOI_Resolution_15-02.pdf)
 - DOI: <https://zenodo.org/records/19073767>
@@ -128,7 +128,8 @@ This Resolution applies to all CPCs that deploy and use anchored fish aggregatin
 - Official text: [24/02](https://www.iotc.org/cmm/resolution-2402-management-drifting-fish-aggregating-devices-fads-iotc-area-competence)
 - DOI: <https://zenodo.org/records/20487167>
 - Entry into force: 2024-03-02
-- Supersedes: [19/02](#1902), except that for Oman
+- Does not apply to Oman
+- Supersedes: [19/02](#1902)
 - Guidelines: [DFOB-related activities](https://data.iotc.org/reference/latest/guidelines/#DFOB-related_activities) | [Daily buoy positions](https://data.iotc.org/reference/latest/guidelines/#Daily_buoy_positions)
 - Reporting forms: [3DA](https://data.iotc.org/reference/latest/forms/#Form_3DA) | [3BU](https://data.iotc.org/reference/latest/forms/#Form_3BU)
 
@@ -208,7 +209,7 @@ In terms of reporting, CPCs shall ensure that all interactions with vulnerable s
 - Official text: [25/09](https://iotc.org/cmm/resolution-2509-conservation-shortfin-and-longfin-mako-sharks-caught-association-iotc-fisheries)
 - DOI: <https://zenodo.org/records/20485048>
 - Entry into force: 2026-01-01
-- Does not apply to India
+<!-- - Does not apply to India -->
 - Guidelines: [Amount of fish caught and retained](https://data.iotc.org/reference/latest/guidelines/#Amount_of_fish_caught_and_retained) | [Amount of discards](https://data.iotc.org/reference/latest/guidelines/#Amount_of_discards) | [Geo-referenced catches and efforts](https://data.iotc.org/reference/latest/guidelines/#Geo-referenced_catches_and_efforts) | [Geo-referenced size frequencies](https://data.iotc.org/reference/latest/guidelines/#Geo-referenced_size_frequencies)
 - Reporting forms: [1RC](https://data.iotc.org/reference/latest/forms/#Form_1RC) | [1DI](https://data.iotc.org/reference/latest/forms/#Form_1DI) | [3CE](https://data.iotc.org/reference/latest/forms/#Form_3CE) | [4SF](https://data.iotc.org/reference/latest/forms/#Form_4SF)
 
@@ -221,11 +222,11 @@ This Resolution applies to all vessels flying the flag of a CPC and fishing for 
 - Official text: [14/05](https://iotc.org/cmm/resolution-1405-concerning-record-licensed-foreign-vessels-fishing-iotc-species-iotc-area)
 - DOI: <https://zenodo.org/records/21820724>
 - Entry into force: 2014-10-08
-- Supersedes: [13/17](https://iotc.org/cmm/resolution-1307-concerning-record-licensed-foreign-vessels-fishing-iotc-species-iotc-area)
+- Supersedes: [13/07](https://iotc.org/cmm/resolution-1307-concerning-record-licensed-foreign-vessels-fishing-iotc-species-iotc-area)
 - Guidelines: <https://emaris.iotc.org>
 - Reporting Form: Available from <https://emaris.iotc.org>
 
-This Resolution establishes reporting requirements for records of foreign fishing vessels licensed to fish for IOTC species within the EEZs of CPCs, together with information on fisheries access agreements. These requirements support the verification of authorised fishing activities, improve transparency in fisheries access arrangements, and strengthen monitoring, control and surveillance (MCS).
+This Resolution establishes reporting requirements for records of foreign fishing vessels licensed to fish for IOTC species within the EEZs of CPCs, together with information on fisheries access agreements. These requirements support the verification of authorised fishing activities, improve transparency in fisheries access arrangements, and strengthen monitoring, control and surveillance.
 
 ### 19/07 -- On vessel chartering in the IOTC area of competence {#1907}
 
@@ -242,7 +243,7 @@ This Resolution establishes reporting requirements for chartered fishing vessels
 - DOI: <https://zenodo.org/records/21821047>
 - Entry into force: 2024-07-01
 
-This Resolution applies to all CPCs and sets the terms and definitions pertaining to the implementation of Electronic Monitoring Systems, consistent with this Resolution and Resolution [25/06](#2506) on a Regional Observer Scheme. The Resolution calls for the CPCs to share relevant information, approaches, and experiences, including those involving capacity building needs and any CPC-level knowledge exchange, with the Scientific Committee and Compliance Committee to support the implementation of the Regional Electronic Monitoring Programme.
+    This Resolution applies to all CPCs and sets the terms and definitions pertaining to the implementation of Electronic Monitoring Systems, consistent with this Resolution and Resolution [25/06](#2506) on a Regional Observer Scheme. The Resolution calls for the CPCs to share relevant information, approaches, and experiences, including those involving capacity building needs and any CPC-level knowledge exchange, with the Scientific Committee and Compliance Committee to support the implementation of the Regional Electronic Monitoring Programme.
 
 ### 25/05 -- On establishing a programme for transhipment by large-scale fishing vessels {2505}
 
