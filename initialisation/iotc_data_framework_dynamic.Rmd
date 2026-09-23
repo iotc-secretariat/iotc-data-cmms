@@ -1,0 +1,36 @@
+---
+title: "IOTC Fisheries Data Framework"
+subtitle: "Overview of the Conservation and Management Measures establishing the requirements for fisheries data collection, reporting, observation and monitoring in the IOTC Area of Competence"
+author: "Author: [IOTC Secretariat](mailto:IOTC-Secretariat@fao.org)"
+output:
+  officedown::rdocx_document:
+    reference_docx: "../templates/rdoc_template.docx"
+  bookdown::html_document2:
+    css: "../templates/fao_template_simplified.css"
+    self_contained: true
+    number_sections: false
+    toc: true
+    toc_depth: 3
+    toc_float:
+      collapsed: false
+      smooth_scroll: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+library(data.table)
+source("cmm_layout.R")
+```
+
+## Introduction
+
+The Indian Ocean Tuna Commission (IOTC) has adopted a comprehensive framework of [Conservation and Management Measures](https://data.iotc.org/reference/latest/guidelines/#cmm) governing the collection, recording, reporting, observation and management of fisheries data by Contracting Parties and Cooperating Non-Contracting Parties (CPCs). These measures define the information that must be collected and reported to the IOTC Secretariat and establish common standards for fisheries data across the Indian Ocean.
+
+This page provides an overview of the principal data-related CMMs and their reporting requirements. Together, these measures underpin the IOTC fisheries information system and support fisheries monitoring, stock assessments, scientific advice and evidence-based fisheries management.
+
+```{r cmm-layout, results='asis'}
+render_cmm_layout(
+  csv_file = "data_active_resolutions_descriptors.csv",
+  language = "en"
+)
+```
