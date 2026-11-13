@@ -12,7 +12,7 @@ pacman::p_load(
 
 # Display official texts
 resolution_text <- function(ResolutionNumber = "15/01"){
-  return(paste0("[", ResolutionNumber, " (English)](../pdf/eng/IOTC_Resolution_", gsub("/", "-", ResolutionNumber), ".pdf) | [", ResolutionNumber, " (French)](../pdf/eng/CTOI_Resolution_", gsub("/", "-", ResolutionNumber), ".pdf)"))
+  return(paste0("[", ResolutionNumber, " (English)](./pdf/eng/IOTC_Resolution_", gsub("/", "-", ResolutionNumber), ".pdf) | [", ResolutionNumber, " (French)](./pdf/fra/CTOI_Resolution_", gsub("/", "-", ResolutionNumber), ".pdf)"))
             }
 
 ## Define target url ####
@@ -31,14 +31,14 @@ ftp_url <- function(path = NA) {
 ## html ####
 render("rmd/00_DOCX_HTML.Rmd", 
        output_format = "html_document2",
-       output_dir    = "outputs/html/", 
+       output_dir    = "outputs/",      #"outputs/html/", 
        output_file   = paste0("index.html")
 )
 
 # Upload html file on the server
 ftpUpload(
-  what = "./outputs/html/index.html", 
-  to = ftp_url("reference/cmms/html/index.html"), 
+  what = "./outputs/index.html", 
+  to = ftp_url("reference/cmms/index.html"), 
   asText = FALSE,
   .opts = list(ftp.create.missing.dirs = TRUE) 
 )
