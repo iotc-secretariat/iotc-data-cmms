@@ -26,15 +26,13 @@ Certain Resolutions that have been superseded remain applicable to individual CP
 
 ## Core Data Collection and Reporting Framework {#framework}
 
-<!--
 ### 26/06 -- Mandatory statistical reporting requirements for IOTC Contracting Parties and Cooperating Non-Contracting Parties (CPCs) {#2606}
 
-<!--
 - Official text: `r resolution_text("26/06")` 
 - DOI: <https://doi.org/10.5281/zenodo.24105750>
-- Entry into force (pending): 2026-11-18
-- Will apply to India and Somalia
-- Supersedes: [15/02](https://www.iotc.org/cmm/resolution-1502-mandatory-statistical-reporting-requirements-iotc-contracting-parties-and)
+- Entry into force: 2026-11-18
+- Does not apply to India, Oman, and Somalia
+- Supersedes: [15/02](#1502)
 - Guidelines: 
 
     - [Amount of fish caught and retained](https://data.iotc.org/reference/guidelines/stats/index.html#RCdataset)  
@@ -54,8 +52,6 @@ This Resolution applies to IOTC Contracting Parties and Cooperating Non-Contract
 The Resolution also establishes reporting requirements for purse seine support vessels and fish aggregating devices (FADs), specifies minimum spatial and temporal resolutions for fisheries datasets, sets minimum standards for size-frequency sampling, requires documentation of data extrapolation procedures, and defines the timelines for submitting fisheries statistics to the IOTC Secretariat.
 
 In addition, it introduces requirements for reporting annual catches from surface and longline fisheries by national jurisdictional area and high seas, including the submission of historical geospatial catch-and-effort data. It also establishes procedures for reviewing historical data revisions, including possible extensions for eligible developing coastal CPCs, and requires the annual submission of aggregated fishing vessel statistics from 2030.
-
--->
 
 ### 25/06 -- On a regional observer scheme {#2506}
 
@@ -90,6 +86,8 @@ This Resolution applies to all CPCs and establishes requirements for reporting t
 - DOI: <https://doi.org/10.5281/zenodo.20483922>
 - Entry into force: 2015-09-10
 - Supersedes: [10/02](https://iotc.org/cmm/resolution-1002-mandatory-statistical-requirements-iotc-members-and-cooperating-non-contracting)
+- Superseded by: [26/06](#2606)
+- Does apply to India, Oman, and Somalia
 - Guidelines: 
 
     - [Amount of fish caught and retained](https://data.iotc.org/reference/guidelines/stats/index.html#RCdataset)  
